@@ -3,3 +3,7 @@ spring:
     name: foo
   profiles:
     active: dev,mysql
+db:
+    connection: Demo Connection
+    port: 1000
+    server: sample
